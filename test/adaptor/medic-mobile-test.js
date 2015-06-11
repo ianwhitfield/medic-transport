@@ -41,7 +41,7 @@ describe('medic-mobile', function() {
   describe('receiving', function() {
     it('should poll by GETting /add', function(done) {
       sinon.stub(request, 'get', function(options) {
-        assert.equal(options.url, TEST_URL_ROOT + '/addaaaaaaaaaaaaaaaa');
+        assert.equal(options.url, TEST_URL_ROOT + '/add');
         return done();
       });
       mm.start();
