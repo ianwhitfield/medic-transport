@@ -34,7 +34,7 @@ var test_smpp = function () {
   d.start();
 
   var message = {
-    to: '5158226442', content: 'This is a test message'
+    to: '+16365553226', content: 'This is a test message'
   };
 
   d.send(message, function (_err) {

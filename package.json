@@ -15,7 +15,8 @@
     "node-gammu-json": "0.x",
     "smpp": "0.x",
     "google-libphonenumber": "0.x",
-    "q": "1.x"
+    "q": "1.x",
+    "iconv-lite": "0.x"
   },
   "devDependencies": {
     "grunt": "0.4.5",
