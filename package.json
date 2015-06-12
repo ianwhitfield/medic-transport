@@ -16,7 +16,6 @@
     "smpp": "0.x",
     "google-libphonenumber": "0.x",
     "iconv-lite": "0.4.x",
-    "q": "1.x"
   },
   "devDependencies": {
     "grunt": "0.4.5",
