@@ -13,7 +13,8 @@
     "underscore": "1.x",
     "request": "2.x",
     "node-gammu-json": "0.x",
-    "smpp": "0.x"
+    "smpp": "0.x",
+    "google-libphonenumber": "0.x"
   },
   "devDependencies": {
     "grunt": "0.4.5",
